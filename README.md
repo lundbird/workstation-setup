@@ -5,6 +5,7 @@ Whenever I get a new workstation I always find myself repeating the same steps t
 ### Karabiner Elements
 - keyboard customizer for macos
 - https://karabiner-elements.pqrs.org/
+- This app has a critical modification to change `right-cmd+hjkl` to arrow keys 
 ### Magnet
 - window manager for macos
 - https://apps.apple.com/us/app/magnet/id441258766?mt=12
@@ -96,7 +97,8 @@ Zsh is a feature rich, extensible shell. Most of my utility commands are provide
 I use the git plugin in zsh: https://kapeli.com/cheat_sheets/Oh-My-Zsh_Git.docset/Contents/Resources/Documents/index. 
 ### kubectl config
 I use the kubectl plugin in zsh: https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/kubectl/kubectl.plugin.zsh. I have added some additional aliases and functions for common kubectl commands
-
+### Other config
+Apps often store your user config in a ~/.appname directory, some of which may be confidential. To migrate your mac its easiest to use the migration assistant here: https://support.apple.com/en-us/HT204350. or magic-wormhole: https://github.com/warner/magic-wormhole
 # Workstation Ergonomics
 When working, your arms should rest on the armrest and be parallel with the keyboard on your desk. The chair should be tall enough that your legs create close to a right angle. Your eyes should reach the top of your monitor.
 ## External Monitor
