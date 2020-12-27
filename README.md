@@ -63,10 +63,10 @@ Lots here I am not listing. General list of packages I know I use.
 - Increase trackpad speed to max (TrackPad)
 - Reduce size of bottom bar. Auto Hide. (Dock)
 - Autohide the top status bar.
-- Reduce display size to minimum (Displays)
 - Key repeat Fast and Delay until Repeat Short (Keyboard)
 - Use F1,F2 as standard function keys (Keyboard)
 - Set chrome as the default browser
+- Modify the applications that start on boot. (Users&Groups->LoginItems)
 ## MacOS System and Application Shortcuts
 - Google Chrome: (Keyboard->Shortcuts->App Shortcuts->Google Chrome)
   - `select next tab: cmd+'`
