@@ -109,13 +109,15 @@ I use a 34" curved ultrawide here: https://www.lenovo.com/us/en/accessories/moni
 
 My current recommendation is this product by LG: https://www.amazon.com/dp/B07YGZ7C1K/ref=cm_sw_em_r_mt_dp_Uk-4FbSJSAA50. If you work at night, make sure your monitor can go dark enough to not burn your eyes.
 
-Use whatever monitor setup you like. Some prefer to remove their macbook in favor of an external keyboard/mouse. I prefer to use the macbook keyboard and trackpad (minimally) to do my work
+Use whatever monitor setup you like. Some prefer to remove their macbook in favor of an external keyboard/mouse. I prefer to use the macbook keyboard and trackpad (minimally) to do my work.
+
+One issue you may encounter is that your macbook does not natively understand the resolutions available on your new display. To fix this you can install a tool such as SwitchResX: https://www.madrau.com/, then make a custom resolution based on the exported EDID configuration for you external display. You may also want to update the resolution of your macbook pro display so you get consistent mouse movements between your external display and your macbook pro.
 ## Desk
 Most desks are too high. I have tried several computer desks and recommend this one: https://www.amazon.com/dp/B06XZV3F8F/ref=cm_sw_em_r_mt_dp_qj-4FbGGGK75P. Not only is it light, sturdy, and quick to setup, it also sites at an ideal height for your keyboard.
 ## Chair
 I am using this office chair: https://www.amazon.com/dp/B01MQYP11W/ref=cm_sw_em_r_mt_dp_9p-4FbTN8VE1K. I don't have much of a preference on this matter. Make sure it can sit high enough, can bend backwards, and is comfortable to sit in for long periods.
 ## Mouse
-Personal preference but I prefer using shortcuts or the trackpad.
+Personal preference but I prefer using shortcuts or the trackpad. One thing is if you are going to use a mouse is I recommend installing Scroll-Reverser (Reverses scroll direction), DiscreteScroll (prevents mouse wheel acceleration), and SensibleSideButtons(Allows you to use mouse side buttons) applications.
 
 # Workflow Ergonomics
 In the last section we discussed the physical requirements for ergonomic work. Here we discuss some ways to model and approach your common tasks.
