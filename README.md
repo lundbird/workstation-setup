@@ -1,6 +1,7 @@
 # How to setup your workstation
 Whenever I get a new workstation I always find myself repeating the same steps to set it up just how I like. Here is a repo dedicated to documenting all the necessary steps and providing configuration files necessary. The following assumes installing to a macbook pro.
 
+** MacOS provides a tool "Migration Assistant" to migrate your existing configuration from a backup or other mac to your new device. This is preferred to installing everything from sratch as described below. **
 # Necessary Tools
 ### Karabiner Elements
 - keyboard customizer for macos
