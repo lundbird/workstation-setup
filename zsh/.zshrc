@@ -25,6 +25,9 @@ alias grep="grep --color=auto -nIs"
 alias ip="ifconfig | grep 'inet ' | grep -v 127.0.0.1 | cut -d\  -f2"
 alias zshconfig="vi ~/.zshrc"
 alias gpom="git pull origin master"
+alias tf="terraform"
+alias sed="gsed"
+alias brew="HOMEBREW_NO_AUTO_UPDATE=1 brew"
 
 function decrypt(){
 	echo "$1" | base64 -D
