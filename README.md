@@ -115,7 +115,7 @@ One issue you may encounter is that your macbook does not natively understand th
 ## Desk
 Most desks are too high. I have tried several computer desks and recommend this one: https://www.amazon.com/dp/B06XZV3F8F/ref=cm_sw_em_r_mt_dp_qj-4FbGGGK75P. Not only is it light, sturdy, and quick to setup, it also sites at an ideal height for your keyboard.
 ## Chair
-I am using this office chair: https://www.amazon.com/dp/B01MQYP11W/ref=cm_sw_em_r_mt_dp_9p-4FbTN8VE1K. I don't have much of a preference on this matter. Make sure it can sit high enough, can bend backwards, and is comfortable to sit in for long periods.
+Ergonomic office chairs are a highly opinionated topic. The top four chairs I have heard of are the steelcase leap, steelcase gesture, herman-miller embody, herman-miller aeron. Try each of them out if possible. I tried them all out and decided to purchase the steelcase leap on Amazon.
 ## Mouse
 Personal preference but I prefer using shortcuts or the trackpad. One thing is if you are going to use a mouse is I recommend installing Scroll-Reverser (Reverses scroll direction), DiscreteScroll (prevents mouse wheel acceleration), and SensibleSideButtons(Allows you to use mouse side buttons) applications.
 
