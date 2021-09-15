@@ -3,7 +3,6 @@
 
 # Path to your oh-my-zsh installation.
 export ZSH=$HOME/.oh-my-zsh
-source $ZSH/oh-my-zsh.sh
 
 # Set name of the theme to load --- if set to "random", it will
 ZSH_THEME="alexlundberg"
@@ -82,3 +81,5 @@ function kt(){
 function ku(){
   kubectl config use-context "$1"
 }
+
+source $ZSH/oh-my-zsh.sh
