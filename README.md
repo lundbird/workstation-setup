@@ -58,6 +58,11 @@ Lots here I am not listing. General list of packages I know I use.
 - yq
 - httpie
 - maven
+
+## Other good software tools
+- For each language, having a version manager is useful to change between python (pyenv),ruby (rbenv),java (jenv),terraform (tfenv), go ect versions. 
+- 
+
 # Configuration
 ## MacOS System (System Preferences)
 - Increase trackpad speed to max (TrackPad)
@@ -69,7 +74,7 @@ Lots here I am not listing. General list of packages I know I use.
 - Modify the applications that start on boot. (Users&Groups->LoginItems)
 ## MacOS System and Application Shortcuts
 - Google Chrome: (Keyboard->Shortcuts->App Shortcuts->Google Chrome)
-  - `select next tab: cmd+'`
+  - `Select Next Tab: cmd+'`
   - `Select Previous Tab: cmd+;'`
 ## Chrome Config
 Typically logging into chrome should pull all your latest setup. Some extensions I recommend:
