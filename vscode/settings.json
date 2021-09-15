@@ -3,7 +3,6 @@
     "breadcrumbs.enabled": true,
     "workbench.statusBar.visible": false,
     "workbench.activityBar.visible": false,
-    "terminal.integrated.shell.osx": "/bin/zsh",
     "files.autoSave": "afterDelay",
     "editor.tabSize": 2,
     "editor.insertSpaces": true,
@@ -55,5 +54,13 @@
       "default": "right",
       "jupyter-notebook": "left"
     },
-    "window.zoomLevel": -1
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "terminal.integrated.profiles.osx": {
+      "zsh": {
+        "path": "/bin/zsh",
+        "args": [
+          "-l",
+        ]
+      }
+    },
 }
