@@ -3,6 +3,8 @@ Whenever I get a new workstation I always find myself repeating the same steps t
 
 **MacOS provides a tool "Migration Assistant" to migrate your existing configuration from a backup or other mac to your new device. This is preferred to installing everything from sratch as described below.**
 # Necessary Tools
+
+Your first step on getting the new computer is to install the macos developer tools and homebrew. Then you can install most programs below from homebrew using `xargs brew install < brew.txt` where brew.txt contains the programs to install. `brew leaves` command can show you what you have already installed in brew. Some of the below GUI tools may need to be installed from cask.
 ### Karabiner Elements
 - keyboard customizer for macos
 - https://karabiner-elements.pqrs.org/
@@ -58,10 +60,10 @@ Lots here I am not listing. General list of packages I know I use.
 - yq
 - httpie
 - maven
+- fzf
 
 ## Other good software tools
 - For each language, having a version manager is useful to change between python (pyenv),ruby (rbenv),java (jenv),terraform (tfenv), go ect versions. 
-- 
 
 # Configuration
 ## MacOS System (System Preferences)
