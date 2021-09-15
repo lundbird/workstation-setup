@@ -6,7 +6,7 @@ export ZSH=$HOME/.oh-my-zsh
 source $ZSH/oh-my-zsh.sh
 
 # Set name of the theme to load --- if set to "random", it will
-ZSH_THEME="robbyrussell"
+ZSH_THEME="alexlundberg"
 
 # Set the plugins to load
 plugins=(fzf git aws brew compleat kube-ps1 docker kubectl zsh-autosuggestions zsh-syntax-highlighting)
