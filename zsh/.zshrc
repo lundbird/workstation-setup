@@ -11,8 +11,6 @@ ZSH_THEME="alexlundberg"
 plugins=(fzf git aws brew compleat kube-ps1 docker kubectl zsh-autosuggestions zsh-syntax-highlighting)
 
 # Setup Kubernetes prompt to show cluster and namespace: https://github.com/jonmosco/kube-ps1
-PROMPT=$PROMPT'$(kube_ps1)'$'[%D{%m/%f}|%*]\n$'
-RPROMPT=""
 
 # Useful general shell commands and overrides
 function chpwd() {
