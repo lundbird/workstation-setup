@@ -22,15 +22,12 @@ jq
 k3d
 kind
 kubernetes-cli
-mosquitto
-netcat
 nvm
 openvpn
 postgresql
 pwgen
 redis
 shellcheck
-socat
 terraform-docs
 terrascan
 tfenv
@@ -40,5 +37,4 @@ tgenv
 tree
 truncate
 wget
-wireshark
 yq
